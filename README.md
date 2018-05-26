@@ -1,3 +1,2 @@
 # RaspCar
-infotainment figo
-nome da cambiare ofc
+infotainment figo, nome da cambiare ofc
