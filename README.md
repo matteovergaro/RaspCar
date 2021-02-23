@@ -1,2 +1,3 @@
 # RaspCar
-infotainment figo, nome da cambiare
+infotainment figo, nome da cambiare.
+Work not finished.
